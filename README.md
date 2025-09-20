@@ -14,7 +14,7 @@
 
 ## What is Things?
 
-![Things Interface]https://img.macg.co/2017/5/macgpic-1495031299-113090250622151-sc-jpt.jpg)
+![Things Interface](https://img.macg.co/2017/5/macgpic-1495031299-113090250622151-sc-jpt.jpg)
 
 Things is a powerful and elegantly designed task management application that helps you achieve your goals with minimal effort. Created by Cultured Code, it stands out for its user-friendly design and robust feature set that supports both simple checklists and complex project plans.
 
